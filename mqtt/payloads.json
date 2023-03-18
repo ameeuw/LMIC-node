@@ -1,0 +1,14 @@
+{
+  "topic": "v3/vw-bus-telemetry@ttn/devices/ttgo-t3-v1-0001/down/replace",
+  "payload": {
+    "downlinks": [
+      {
+        "f_port": 100,
+        "frm_payload": "wA==",
+        "priority": "HIGH",
+        "confirmed": true,
+        "correlation_ids": ["reset-counter"]
+      }
+    ]
+  }
+}
